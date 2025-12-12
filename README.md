@@ -54,7 +54,7 @@ A Redis-inspired distributed in-memory key-value store built from scratch in C++
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/distkv.git
+git clone https://github.com/akariya-mohammed/distkv.git
 cd distkv
 
 # Create build directory
